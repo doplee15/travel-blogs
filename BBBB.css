@@ -1,0 +1,148 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2c2c2c;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+   
+}
+ul li {
+    
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 25px;
+  text-decoration: none;
+
+}
+ul li a:hover {
+  background-color: #3d3d3d;
+  width: 50%;
+}
+ h1{
+        text-align: center;
+        margin: 200px 0 0 0 ;
+        color: rgb(0, 0, 0);
+
+    }
+    h3{
+        text-align: center;
+        margin: 0 0 0 100px;
+        color: rgb(3, 10, 15);
+    }
+    .border5{
+      margin: -55px 0 0px 170px;
+    }
+    .e1{
+      padding: 100px 0 0 210px;
+    }
+    .f1{
+      margin: 0 50px 0 0;
+    }
+    .i1{
+      margin: -158px 0 300px 245px;
+    }
+    .j1{
+      margin: -202px 0 100px 230px;
+      
+    }
+    .j1 img{
+      padding: 10px;
+    }
+    .pho2{
+      margin: 0 -200px 0 705px;
+    }
+    .k1{
+      margin: -50px 0 100px 210px;
+    }
+    .m1{
+      margin: 0 50px 0 0 ;
+    }
+    .n1{
+      margin: -244px 0 00px 245px;
+    }
+    .o1{
+      margin: 100px 0 0 230px ;
+    }
+    .o1 img{
+      padding: 10px;
+    }
+    .col2{
+      margin: 0 0 0 705px;
+    }
+    .p1{
+      margin: 50px 0 0 210px;
+    }
+    .q1{
+      margin: 0 50px 0 0;
+    }
+    .r1{
+      margin: -125px 0 0 245px;
+    }
+    .s1{
+      margin: 80px 0 0 230px;
+    }
+    .s1 img{
+      padding: 10px;
+    }
+    .ppp2{
+      margin: 0 0 0 705px;
+    }
+    .t1{
+      padding: 20px;
+      gap: 100px;
+      margin: 40px 0 0 0 ;
+      
+      
+    }
+    .t1 img{
+      margin: 0 0 0 90px;
+    }
+   div .hh1:hover{
+    opacity: 60%;
+   }
+  .jy1{
+ color: aliceblue;
+    margin: -200px 0 100px 100px;
+  }
+ .mb1{
+  display: flex;
+margin: 170px 0 0 100px;
+ 
+ }
+ .sa1{
+  margin: 0 0 0 50px;
+ }
+ .iop1{
+  margin:-20px 0 0 290px ;
+ }
+ .ddr1{
+  height: 50px ;
+  width: 250px;
+ }
+ .frt1{
+   height: 30px ;
+  width: 250px;
+ }
+ .bnm1{
+  margin: -165px 0 0 900px;
+ }
+ .hoho1{
+  background-color: cornflowerblue;
+  height: 400px;
+  width: 94.6%;
+ }
+ .hjk1{
+  margin: 35px 0 0  100px;
+ }
+ .fcv1{
+gap: 10px;
+margin: -15px 0 0 900px;
+ }
